@@ -1,0 +1,58 @@
+# A matplotlib stylesheet for use in the notebook
+
+lines.linewidth : 3
+lines.markersize : 10
+
+legend.fontsize  : 16
+legend.frameon : False
+
+font.family : sans-serif
+font.sans-serif : Helvetica
+
+figure.figsize   : 8,5
+figure.subplot.bottom: 0.15
+figure.subplot.left: 0.15
+figure.subplot.right: 0.95
+figure.subplot.top: 0.92
+figure.dpi       : 300 # figure dots per inch
+savefig.pad_inches  : 0.2      # Padding to be used when bbox is set to 'tight'
+savefig.transparent : True    # setting that controls whether figures are saved with a
+                                # transparent background by default
+
+axes.prop_cycle: cycler('color',['E24A33','348ABD','988ED5','777777','FBC15E','8EBA42','FFB5B8'])
+
+# ticks
+#xtick.major.size : 12      # major tick size in points
+#xtick.minor.size : 8      # minor tick size in points
+#ytick.major.size : 12      # major tick size in points
+#ytick.minor.size : 8      # minor tick size in points
+
+xtick.top : True
+xtick.direction: in
+xtick.major.size : 6      # major tick size in points
+xtick.major.width  : 2.0    # major tick width in points
+xtick.minor.size : 0      # minor tick size in points
+
+ytick.right : True
+ytick.direction: in
+ytick.major.size : 6      # major tick size in points
+ytick.major.width  : 2.0    # major tick width in points
+ytick.minor.size : 0      # minor tick size in points
+
+# Latex
+text.usetex: False
+
+# Set the default font to be sans-serif
+#text.latex.preamble :  \usepackage{siunitx}, \usepackage{helvet}, \renewcommand*{\familydefault}{\sfdefault}
+
+pdf.fonttype       : 42
+
+# AXES
+axes.titlesize : 24
+axes.linewidth : 2.0     # edge linewidth
+axes.xmargin   : 0       # x margin.  See `axes.Axes.margins`
+axes.ymargin   : 0 
+xtick.labelsize : 20
+ytick.labelsize : 20
+axes.labelsize : 20
+axes.labelpad       : 1.0
