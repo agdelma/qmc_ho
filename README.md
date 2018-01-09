@@ -18,7 +18,7 @@ For more information on PIGS please see:
 - [M. Ceperley, *Path Integrals in the Theory of Condensed Helium*, Rev. Mod.
   Phys. **67**, 279 (1995).](http://link.aps.org/doi/10.1103/RevModPhys.67.279)
 - [A. Sarsa, K. E. Schmidt, and W. R. Magro, *A Path Integral Ground State
-  Method*, J. Chem. Phys. **113**, 1366 (2000).](http://link.aip.org/link/JCPSA6/v113/i4/p1366/s1&Agg=doi)
+  Method*, J. Chem. Phys. **113**, 1366 (2000).](http://aip.scitation.org/doi/abs/10.1063/1.481926)
 - [J. E. Cuervo, P.-N. Roy, and M. Boninsegni, *Path integral ground state with a fourth-order propagator: Application to condensed helium*, Chem. Phys. **122**, 114504 (2005).](http://scitation.aip.org/content/aip/journal/jcp/122/11/10.1063/1.1872775)
 - [Y. Yan and D. Blume, *Path Integral Monte Carlo Ground State Approach:
   Formalism, Implementation, and Applications*, J. Phys. B: Atom., Mol.,
