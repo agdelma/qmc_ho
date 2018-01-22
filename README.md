@@ -17,7 +17,7 @@ measurements.  These are likely to underestimate the error in the data.
 PDF of slides from the Winter School can be found here:
 
 - [Monte Carlo in Quantum Liquids](https://delmaestro.org/adrian/files/2018-01-MagLabWinterSchool-MC-Quantum-Liquids.pdf)
-- [Entanglement in Quantum Liquids](https://delmaestro.org/adrian/fiels/2018-01-MagLabWinterSchool-Entanglement-Quantum-Liquids.pdf)
+- [Entanglement in Quantum Liquids](https://delmaestro.org/adrian/files/2018-01-MagLabWinterSchool-Entanglement-Quantum-Liquids.pdf)
 
 For more information on PIGS please see:
 - [M. Ceperley, *Path Integrals in the Theory of Condensed Helium*, Rev. Mod.
