@@ -28,3 +28,7 @@ For more information on PIGS please see:
 - [Y. Yan and D. Blume, *Path Integral Monte Carlo Ground State Approach:
   Formalism, Implementation, and Applications*, J. Phys. B: Atom., Mol.,
   and Opt. **50**, 223001 (2017).](https://doi.org/10.1088/1361-6455/aa8d7f)
+  
+The creation of these training materials was supported in part by the National Science Foundation under Award No. DMR-1553991.
+
+![NSF](https://www.nsf.gov/images/logos/nsf1.gif)
