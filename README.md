@@ -31,4 +31,4 @@ For more information on PIGS please see:
   
 The creation of these training materials was supported in part by the National Science Foundation under Award No. DMR-1553991.
 
-[<img width="150px" height="150px" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1553991)
+[<img width="150px" height="auto" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1553991)
