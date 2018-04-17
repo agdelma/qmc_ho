@@ -29,6 +29,6 @@ For more information on PIGS please see:
   Formalism, Implementation, and Applications*, J. Phys. B: Atom., Mol.,
   and Opt. **50**, 223001 (2017).](https://doi.org/10.1088/1361-6455/aa8d7f)
   
-The creation of these training materials was supported in part by the National Science Foundation under Award No. DMR-1553991.
+The creation of these training materials was supported in part by the National Science Foundation under Award No. [DMR-1553991](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1553991).
 
-[<img width="150px" height="auto" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1553991)
+<img width="150px" height="auto" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">
